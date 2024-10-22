@@ -1,10 +1,4 @@
-"""
-This module is the generator which select data from DB 
-and prepares the data into csv format for download
 
-Date: 31st May, 2019
-Author: John PK Erbynn - john.erbynn@gmail.com
-"""
 
 import sqlite3
 import csv
