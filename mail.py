@@ -1,9 +1,4 @@
 """
-
-This is an Email transaction module
-Created on Sun, 25th of May 2019
-Authors: Isaac Agyen Duffour & John Pk Erbynn
-
 This module handles the alert of any wrong data which is collected and send as email (gmail)
 Data can be sent to multiple emails concurrently ie. addresses in lists
 Uses Simple Mail Transfer Protocol (SMTP)
